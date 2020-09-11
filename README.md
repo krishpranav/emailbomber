@@ -4,7 +4,7 @@ A simple python tool for email bombing
 # Steps To Run This Tool On Linux:
 - git clone https://github.com/krishpranav/emailbomber
 - cd emailbomber
-- sudo chmod +X *
+- sudo chmod +x *
 - python3 emailbomb.py
 
 # Steps To Run This Tool On Mac:
